@@ -1,0 +1,3 @@
+module RegEx {
+	exports regex;
+}
