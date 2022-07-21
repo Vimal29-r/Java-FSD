@@ -1,0 +1,2 @@
+module MyException {
+}
